@@ -1,1 +1,5 @@
 Berikut Menu yang ada direstoran kami:
+1. Ayam Bakar
+2. Ayam Goreng
+3. Lele Bakar
+4. Lele Goreng
